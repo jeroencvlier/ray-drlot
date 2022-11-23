@@ -1,8 +1,9 @@
 # activate tensorboard
-tensorboard --logdir /root/ray_results/ --bind_all
+tensorboard --logdir /notebooks/ray_results --bind_all
 
 # tensorboard for this project
-https://tensorboard-nmxlg7ot41.clg07azjl.paperspacegradient.com/
+https://tensorboard-ngg4cyaes3.clg07azjl.paperspacegradient.com/
+
 
 # remove old tensor board files
 m -r /root/ray_results/

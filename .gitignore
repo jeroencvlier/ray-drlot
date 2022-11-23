@@ -1,0 +1,12 @@
+.pkl
+.csv
+*.csv
+*.pkl
+*.json
+.json
+.pickle
+*.pickle
+ray_results/
+DQN_Checkpoints/
+*Checkpoints/
+*checkpoints/
